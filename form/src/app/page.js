@@ -111,8 +111,10 @@ export default function Home() {
         <video autoPlay loop muted playsInline={true} className="video">
           <source src="/video1.mp4" type="video/mp4" />
         </video>
+      
+    
         <div className="h-screen flex items-center justify-center py-8 px-4 sm:px-6 lg:px-8">
-          <div className="max-w-2xl w-full space-y-8 p-8 rounded-lg bg-opacity-0 text-white shadow-lg">
+          <div className="max-w-2xl container bg-red-200  w-full space-y-8 p-8 rounded-lg bg-opacity-0 text-white shadow-lg">
             <h2 className="text-center text-3xl font-extrabold uppercase">
               Job Application Form
             </h2>

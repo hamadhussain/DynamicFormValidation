@@ -324,7 +324,7 @@ export default function Home() {
               <div className="col-span-1 sm:col-span-2">
                 <button
                   type="submit"
-                  className="w-full py-2 px-4 text-sm font-semibold text-white bg-indigo-600 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50"
+                  className="w-full py-2 px-4 uppercase text-sm font-semibold text-white button-85  shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50"
                 >
                   Submit
                 </button>
